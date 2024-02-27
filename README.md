@@ -18,6 +18,9 @@ I am a passionate software developer with a strong background in web development
 
 
 ## Projects
+<a href="https://github.com/Lolemploi5/God_Of_Chess">![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)</a>
+
+
 
 
 ## Contact Me
