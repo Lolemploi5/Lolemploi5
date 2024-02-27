@@ -16,7 +16,6 @@ I am a passionate software developer with a strong background in web development
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white)
 
-- Python
 
 ## Projects
 
@@ -27,4 +26,5 @@ I am a passionate software developer with a strong background in web development
 ## Contact Me
 
 - Email: sebastienhubert@example.com
+![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white(https://www.linkedin.com/in/sebastien-hubert-pro/))
 - LinkedIn: [Sébastien Hubert](https://www.linkedin.com/in/sebastienhubert)
