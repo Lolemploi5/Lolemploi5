@@ -1,5 +1,5 @@
 # 💫 About Me:
-👨‍💻 About Me<br>Hello! I'm Sébastien Hubert, a passionate and curious Fullstack Developer currently pursuing a Bachelor in Web Development and Security at ESIEE-IT, Coding Factory. With a strong foundation in HTML, CSS, JavaScript, and backend technologies like Python and Java, I love building secure and efficient web applications. 💻<br><br>🔧 Tech Stack:<br><br>Frontend: HTML, CSS, JavaScript<br>Backend: Python, PHP, SQL<br>Tools: Unity, Visual Basic, OpenCV<br>🌍 I'm based in Paris, Ile-de-France and always excited to collaborate on new projects, especially in security and fullstack development.<br><br>🎯 My Projects:<br><br>🕹️ God of Chess: A chess game built in Java.<br>🧠 Memory Game: An interactive web game in PHP with score management.<br>When I’m not coding, you can find me exploring historical sites or competing in E-Sports! 🎮<br><br>Feel free to reach out or explore my repos!
+👨‍💻 About Me<br>Hello! I'm Sébastien Hubert, a passionate and curious Fullstack Developer currently pursuing a Bachelor in Web Development and Security at ESIEE-IT, Coding Factory. With a strong foundation in HTML, CSS, JavaScript, and backend technologies like Python and Java, I love building secure and efficient web applications. 💻<br><br>
 
 
 ## 🌐 Socials:
