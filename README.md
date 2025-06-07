@@ -1,5 +1,5 @@
 # 💫 About Me:
-👨‍💻 About Me<br>Hello! I'm Sébastien Hubert, a passionate and curious Fullstack Developer currently pursuing a Bachelor in Web Development and Security at ESIEE-IT, Coding Factory. With a strong foundation in HTML, CSS, JavaScript, and backend technologies like Python and Java, I love building secure and efficient web applications. 💻<br><br>
+Hello! I'm Sébastien Hubert, a passionate and curious Fullstack Developer currently pursuing a Bachelor in Web Development and Security at ESIEE-IT, Coding Factory. With a strong foundation in HTML, CSS, JavaScript, and backend technologies like Python and Java, I love building secure and efficient web applications. 💻<br><br>
 
 
 ## 🌐 Socials:
